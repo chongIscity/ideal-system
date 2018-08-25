@@ -1,0 +1,7 @@
+{
+	"compileOptions":{
+		"sourceMap":true
+	},
+
+	"files":["JavaScript/oop.ts"]
+}
